@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 8b752c91856d90b49a7606afa5bde764
+  - enabled: 1
+    path: Assets/Scenes/Boss Fight.unity
+    guid: 26a3fb3106c227d43aeaef62f7be2324
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: c181896659c96f44188dcf25d2730f79
